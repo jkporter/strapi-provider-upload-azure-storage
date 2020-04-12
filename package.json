@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-azure-storage",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Azure Storage provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -18,5 +18,5 @@
   },
   "strapi": {
     "isProvider": true
-  }  
+  }
 }
