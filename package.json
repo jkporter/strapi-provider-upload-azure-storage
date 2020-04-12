@@ -1,0 +1,22 @@
+{
+  "name": "strapi-provider-upload-azure-storage",
+  "version": "1.0",
+  "description": "Azure Storage provider for strapi upload",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "azure",
+    "storage",
+    "strapi"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "@azure/storage-blob": "^12.1.1"
+  },
+  "strapi": {
+    "isProvider": true
+  }  
+}
